@@ -1,0 +1,5 @@
+sim_seed,num_iter,training_loss,training_accuracy,test_accuracy
+1,250,0.0034031043760478497,0.68125,0.6785
+1,500,0.0027920256834477186,0.7268166666666667,0.7231
+sim_seed,num_iter,training_loss,training_accuracy,test_accuracy
+1,250,0.007689781486988068,0.28554,0.2826
