@@ -1,4 +1,4 @@
-### A simple federated learning simulator
+### A very simple federated learning simulator
 
 The code was run successfully in the following environment: Python 3.8, PyTorch 1.7, Torchvision 0.8.1
 
